@@ -1,0 +1,6 @@
+comment for git push comment
+ folder initialization    -> git init
+ adding folder all files  -> git add .
+ update files             -> git commit -m "added sales,Product,ustomer"
+ add the github location  -> git remote add origin master https://github.com/inbaraj321/uclo-pos.git
+ git push origin master
